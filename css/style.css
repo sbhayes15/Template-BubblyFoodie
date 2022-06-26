@@ -261,7 +261,7 @@ Navbar
     }
 
     .nav-links a:hover {
-        color: var(--clr-primary-5);
+        color: var(--clr-primary-6);
     }
 
     .nav-center {
@@ -334,7 +334,7 @@ Sidebar
 }
 
 .sidebar-links a:hover {
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
 }
 
 .social-icons {
@@ -353,7 +353,7 @@ Sidebar
 }
 
 .social-icon:hover {
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
 }
 
 .close-btn {
@@ -473,7 +473,7 @@ Projects
 
 .project {
     position: relative;
-    background: var(--clr-primary-5);
+    background: var(--clr-primary-6);
     border-radius: var(--radius);
     margin-bottom: 2rem;
 }
@@ -594,7 +594,7 @@ banner
 
 .banner-picture-container {
     background: var(--clr-white);
-    border: 0.5rem solid var(--clr-primary-5);
+    border: 0.5rem solid var(--clr-primary-6);
     max-width: 30rem;
     /* extra stuff */
     overflow: hidden;
@@ -665,7 +665,7 @@ Services
 }
 
 .service:hover {
-    background: var(--clr-primary-5);
+    background: var(--clr-primary-6);
     color: var(--clr-white);
 }
 
@@ -766,7 +766,7 @@ Featured Blogs
     line-height: 0;
     margin-bottom: 0;
     text-transform: capitalize;
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
 }
 
 .blog-btn {
@@ -944,7 +944,7 @@ Newsletter
 
 .btn-submit:hover {
     background: var(--clr-primary-1);
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
 }
 
 @media screen and (min-width: 992px) {
@@ -1239,7 +1239,7 @@ Footer
 }
 
 .footer .social-icon {
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
 }
 
 .footer .social-icon:hover {
