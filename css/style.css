@@ -749,7 +749,7 @@ Featured Blogs
 }
 
 .blog-title p {
-    color: var(--clr-black);
+    color: var(--clr-grey-7);
 }
 
 /* end of additional css for different layout*/
@@ -1033,7 +1033,7 @@ Hero
 }
 
 .hero-info h4 {
-    color: var(--clr-grey-5);
+    color: var(--clr-black);
 }
 
 .hero-icons {
