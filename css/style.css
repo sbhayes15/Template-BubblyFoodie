@@ -746,7 +746,7 @@ Featured Blogs
 .blog-title h4 {
     margin-bottom: 0.75rem;
     line-height: 1.25;
-    color: var(--clr-grey--1)
+    color: var(--clr-grey--1);
 }
 
 .blog-title p {
