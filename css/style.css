@@ -252,7 +252,7 @@ Navbar
 
     .nav-links a {
         text-transform: capitalize;
-        color: var(--clr-black);
+        color: var(--clr-grey-1);
         font-weight: bold;
         letter-spacing: var(--spacing);
         -webkit-transition: var(--transition);
@@ -746,6 +746,7 @@ Featured Blogs
 .blog-title h4 {
     margin-bottom: 0.75rem;
     line-height: 1.25;
+    color: var(--clr-grey--1)
 }
 
 .blog-title p {
