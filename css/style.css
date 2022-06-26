@@ -175,7 +175,7 @@ p {
 
 .btn:hover {
     color: var(--clr-white);
-    background: var(--clr-primary-8);
+    background: var(--clr-primary-2);
 }
 
 main {
@@ -1076,7 +1076,7 @@ Hero
         height: 100%;
         top: 2rem;
         right: -2rem;
-        border: 0.25rem solid var(--clr-primary-7);
+        border: 0.25rem solid var(--clr-primary-2);
         border-radius: var(--radius);
     }
 }
