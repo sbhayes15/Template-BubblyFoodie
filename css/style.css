@@ -217,8 +217,8 @@ Navbar
 }
 
 .nav-header img {
-    width: 175px;
-    height: 30px;
+    width: 275px;
+    height: 100px;
 }
 
 .nav-btn {
@@ -228,7 +228,7 @@ Navbar
     font-size: 2rem;
     cursor: pointer;
     /* show later */
-    justify-self: right;
+    justify-self: center;
 }
 
 @media screen and (min-width: 768px) {
@@ -251,7 +251,7 @@ Navbar
 
     .nav-links a {
         text-transform: capitalize;
-        color: var(--clr-grey-1);
+        color: var(--clr-white);
         font-weight: bold;
         letter-spacing: var(--spacing);
         -webkit-transition: var(--transition);
