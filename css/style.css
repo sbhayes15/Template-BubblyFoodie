@@ -252,7 +252,7 @@ Navbar
 
     .nav-links a {
         text-transform: capitalize;
-        color: var(--clr-grey-1);
+        color: var(--clr-black);
         font-weight: bold;
         letter-spacing: var(--spacing);
         -webkit-transition: var(--transition);
