@@ -161,7 +161,7 @@ p {
 
 .btn {
     text-transform: uppercase;
-    background: var(--clr-primary-5);
+    background: var(--clr-primary-6);
     color: var(--clr-white);
     padding: 0.375rem 0.75rem;
     letter-spacing: var(--spacing);
@@ -936,7 +936,7 @@ Newsletter
 .btn-submit {
     font-family: var(--ff-primary);
     margin-left: 0.5rem;
-    background: var(--clr-primary-8);
+    background: var(--clr-primary-6);
     color: var(--clr-primary-1);
     cursor: pointer;
     transition: var(--transition);
@@ -1098,7 +1098,7 @@ Contact
 }
 
 .contact-title {
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-6);
     font-weight: 400;
 }
 
