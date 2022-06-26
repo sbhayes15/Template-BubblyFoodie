@@ -224,7 +224,7 @@ Navbar
 .nav-btn {
     background: transparent;
     border-color: transparent;
-    color: var(--clr-white);
+    color: var(--clr-grey-1);
     font-size: 2rem;
     cursor: pointer;
     /* show later */
@@ -233,7 +233,7 @@ Navbar
 
 @media screen and (min-width: 768px) {
     .nav {
-        background: var(--clr-primary-10);
+        background: var(--clr-white);
     }
 
     .nav-btn {
@@ -251,7 +251,7 @@ Navbar
 
     .nav-links a {
         text-transform: capitalize;
-        color: var(--clr-white);
+        color: var(--clr-grey-1);
         font-weight: bold;
         letter-spacing: var(--spacing);
         -webkit-transition: var(--transition);
