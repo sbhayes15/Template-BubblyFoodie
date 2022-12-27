@@ -93,6 +93,7 @@ img:not(.nav-logo) {
 img {
     display: block;
     align-items: right;
+    width: 50%;
 }
 
 h1,
